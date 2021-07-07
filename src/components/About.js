@@ -10,15 +10,14 @@ export default function About() {
                         <br className="hidden lg:inline-block" /> I love to build amazing apps.
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-                    laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-                    Laborum, voluptas natus?
+                    I'm a technology information student at Budi Luhur University. I love exploring technologies and often amazed by the progress we as a human species have made so far in recent years.<br />
+                    I'm also a weeaboo, I love Japanese culture start from anime, idol groups especially AKB48, Japanese food (halal), railways, and many more.
                     </p>
                     <div className="flex justify-center">
                         <a
                             href="#contact"
                             className="inline-flex text-white bg-pink-500 border-0 py-2 px-6 focus:outline-none hover:bg-pink-600 rounded text-lg">
-                                Work with me.
+                                Work with me
                         </a>
                         <a
                             href="#projects"
