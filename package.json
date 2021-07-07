@@ -2,7 +2,7 @@
   "name": "ilhamalamsyh",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ilhamalamsyh.github.io/me",
+  "homepage": "https://ilhamalamsyh.github.io/",
   "dependencies": {
     "@craco/craco": "^5.9.0",
     "@heroicons/react": "^1.0.1",
